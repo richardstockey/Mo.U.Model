@@ -1,5 +1,5 @@
 This repository contains the required R code and data files to produce the Mo-U mass balance model plots (Figures 2 and 3a) presented in ‘Persistent global marine euxinia in the early Silurian’ 
-Richard G. Stockey, Devon B. Cole, Noah J. Planavsky, David K. Loydell,  Jiří Frýda and Erik A. Sperling
+Richard G. Stockey, Devon B. Cole, Noah J. Planavsky, David K. Loydell, Jiří Frýda and Erik A. Sperling
 
 Before running the R scripts included, download this folder and set it as your R working directory. Required data files should then load when called in each script, and pdf files will save within the same folder.
 
